@@ -1,2 +1,2 @@
 # python2
-kullancı_girişi
+## Python ile basit bir kullanıcı girişi örneği.
